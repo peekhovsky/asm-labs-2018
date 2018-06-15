@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\bin\Debug\8086PingPongDevice.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\bin\Debug\8086PingPongDevice.exe
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\bin\Debug\8086PingPongDevice.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\obj\Debug\8086PingPongDevice.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\obj\Debug\8086PingPongDevice.exe
+c:\users\administrator\documents\visual studio 2012\Projects\8086PingPongDevice\8086PingPongDevice\obj\Debug\8086PingPongDevice.pdb
